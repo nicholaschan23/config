@@ -2,6 +2,8 @@
 alias shumble='source /opt/ros/humble/setup.bash'
 alias sis='source ./install/setup.bash'
 
+alias tftree='ros2 run tf2_tools view_frames'
+
 # Colcon
 alias colb='colcon build'
 alias colbsl='colcon build --symlink-install'
