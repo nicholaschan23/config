@@ -1,0 +1,7 @@
+# ROS 2
+alias shumble='source /opt/ros/humble/setup.bash'
+alias sis='source ./install/setup.bash'
+
+# Colcon
+alias colb='colcon build'
+alias colbsl='colcon build --symlink-install'
